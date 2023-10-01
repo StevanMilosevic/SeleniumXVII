@@ -16,7 +16,5 @@ public class Selenium6 {
 
         driver.manage().addCookie(cookie);
         driver.navigate().refresh();
-
-
     }
 }
